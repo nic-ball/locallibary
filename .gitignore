@@ -1,0 +1,9 @@
+# IDEA settings
+.idea
+
+#Virtual environment
+venv
+
+#pycache
+*.pyc
+__pycache__.py
